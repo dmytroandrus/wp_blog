@@ -1,0 +1,38 @@
+# Translation of Plugins - Bootstrap Blocks - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Bootstrap Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-18 13:55:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Bootstrap Blocks - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "Liip AG"
+msgstr "Liip AG"
+
+#: src/class-wp-bootstrap-blocks.php:308 src/class-wp-bootstrap-blocks.php:315
+msgid "Cheatin&#8217; huh?"
+msgstr "Эй! Жульничаем?!"
+
+#. Plugin Name of the plugin
+#: src/class-wp-bootstrap-blocks.php:258 src/settings/class-settings.php:160
+msgid "Bootstrap Blocks"
+msgstr "Bootstrap Блоки"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/liip/bootstrap-blocks-wordpress-plugin"
+msgstr "https://github.com/liip/bootstrap-blocks-wordpress-plugin"
+
+#. Author URI of the plugin
+msgid "https://liip.ch"
+msgstr "https://liip.ch"
+
+#. translators: %s template
+#: src/wp-bootstrap-blocks-functions.php:26
+msgid "%s does not exist."
+msgstr "%s не существует."
